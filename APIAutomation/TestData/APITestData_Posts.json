@@ -1,0 +1,28 @@
+{
+  "Testcases": [
+    {
+      "testcaseNo": "TC002_CreateData",
+      "data": {
+        "userId": 101,
+        "title": "Sample Title",
+        "body": "Sample Body text"
+      }
+    },
+    {
+      "testcaseNo": "TC003_UpdateData",
+      "data": {
+        "userId": 1,
+        "title": "Sample Title",
+        "body": "Sample Body text"
+      }
+    },
+    {
+      "testcaseNo": "TC004_DeleteData",
+      "data": {
+        "userId": 1,
+        "title": "Sample Title",
+        "body": "Sample Body text"
+      }
+    }
+  ]
+}

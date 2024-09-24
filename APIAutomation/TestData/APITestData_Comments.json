@@ -1,0 +1,22 @@
+{
+  "Testcases": [
+    {
+      "testcaseNo": "TC005_CreateDataByID",
+      "data": {
+        "postId": 1010,
+        "name": "Client 001",
+        "email": "client001@gmail.com",
+        "body": "Sample Body Text 1"
+      }
+    },
+    {
+      "testcaseNo": "TC006_GetDataByID",
+      "data": {
+        "postId": 1,
+        "name": "Client 005",
+        "email": "client005@gmail.com",
+        "body": "Sample Body Text 5"
+      }
+    }
+  ]
+}
